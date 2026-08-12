@@ -1,0 +1,6 @@
+{
+  "name": "English Vocabulary Challenge",
+  "description": "An interactive web version of the English Vocabulary Challenge game featuring multiple difficulty levels, animated character reactions, expanded vocabulary database, TTS audio pronunciation, and AI explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

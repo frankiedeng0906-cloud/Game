@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-serif {
+    font-family: 'Libre Baskerville', Georgia, serif;
+  }
+  .font-sans {
+    font-family: 'Montserrat', system-ui, -apple-system, sans-serif;
+  }
+  .pill-shadow {
+    box-shadow: 0 4px 20px rgba(90, 90, 64, 0.08);
+  }
+  .grass-gradient {
+    background: linear-gradient(to bottom, #A8C69F 0%, #8FB384 100%);
+  }
+}
+
